@@ -4,5 +4,5 @@
 
 ![]
 
-## Mis repositorops
+## Mis repositorios
 [Proyecto final de FX] (https://github.com/jsusito/javaFxProyecto.git) Proyecto de Fx
