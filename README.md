@@ -10,4 +10,4 @@
 (https://github.com/jsusito/javaFxProyecto.git) Proyecto de Fx
 
 ### Proyecto final de Spring boot 
-(https://github.com/jsusito/Spring-boot.git) App y Servicios Api Rest
+(https://github.com/jsusito/spring-boot.git) App y Servicios Api Rest
