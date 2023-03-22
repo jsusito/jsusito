@@ -11,3 +11,6 @@
 
 ### Proyecto final de Spring boot 
 (https://github.com/jsusito/spring-boot.git) App y Servicios Api Rest
+
+### Proyecto final de React
+(https://github.com/jsusito/proyecto-restaurant.git) Ejemplo de Página web hecha en React
