@@ -8,5 +8,8 @@
 ### Proyecto de Spring boot V2.7 
 (https://github.com/jsusito/spring-boot.git) App y Servicios Api Rest
 
+### Proyecto de Spring boot V3.0.4 
+(https://github.com/jsusito/spring-boot-V2.git) App y Servicios Api Rest
+
 ### Proyecto final de React
 (https://github.com/jsusito/proyecto-restaurant.git) Ejemplo de Página web hecha en React
