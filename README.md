@@ -5,7 +5,7 @@
 ### Proyecto final de java FX 
 (https://github.com/jsusito/javaFxProyecto.git) Proyecto hecho en jafa Fx
 
-### Proyecto final de Spring boot 
+### Proyecto de Spring boot V2.7 
 (https://github.com/jsusito/spring-boot.git) App y Servicios Api Rest
 
 ### Proyecto final de React
