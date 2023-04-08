@@ -12,5 +12,6 @@
 (https://github.com/jsusito/spring-boot-V2.git) App y Servicios Api Rest
 
 ### Proyecto final de React
-(https://github.com/jsusito/proyecto-restaurant.git) Código del proyecto.
+(https://github.com/jsusito/proyecto-restaurant.git) Código del proyecto 
+
 (https://jsusito.github.io/proyecto-restaurant/) Mira aquí la página en vivo.
