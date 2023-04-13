@@ -12,9 +12,15 @@ https://github.com/jsusito/spring-boot.git App y Servicios Api Rest
 https://github.com/jsusito/spring-boot-V2.git App y Servicios Api Rest
 
 ### Proyecto en React
-https://github.com/jsusito/proyecto-restaurant.git Código del proyecto 
 
-https://jsusito.github.io/proyecto-restaurant/ Mira aquí la página en vivo.
+
+Código del proyecto
+
+https://github.com/jsusito/proyecto-restaurant.git  
+
+Mira aquí un ejemplo.
+
+https://jsusito.github.io/proyecto-restaurant/ 
 
 
 Esta es la parte del backend. Las APIs, seguridad JWT... para el inicio de la aplicación y la carga de datos
