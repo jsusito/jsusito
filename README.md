@@ -24,7 +24,7 @@
       <div class="project">
         <h3>Proyecto con spring-boot V2.7</h3>
         <p>Son dos partes, la parte MVC y el Servicio Rest</p>
-        <a href="https://github.com/jsusito/spring-boot.git" class="btn">App MVC y Servicios Api Rest</a>
+        <a href="https://github.com/jsusito/spring-boot.git" class="btn">App MVC y Servicios API REST</a>
       </div>
        <hr>
       <div class="project">
