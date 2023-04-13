@@ -16,6 +16,7 @@ https://github.com/jsusito/proyecto-restaurant.git Código del proyecto
 
 https://jsusito.github.io/proyecto-restaurant/ Mira aquí la página en vivo.
 
-https://github.com/jsusito/API-REST-RESTAURANT 
 
 Esta es la parte del backend. Las APIs, seguridad JWT... para el inicio de la aplicación y la carga de datos
+https://github.com/jsusito/API-REST-RESTAURANT 
+
