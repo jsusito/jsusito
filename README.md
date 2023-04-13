@@ -20,6 +20,7 @@
         <p>Proyecto Maven utilizando java 17. y JavaFx</p>
         <a href="https://github.com/jsusito/javaFxProyecto.git">Ver proyecto</a>
       </div>
+      <hr>
       <div class="project">
         <h3>Proyecto con spring-boot V2.7</h3>
         <p>Son dos partes, la parte MVC y el Servicio Rest/p>
