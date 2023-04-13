@@ -37,12 +37,11 @@
       <div class="project">
         <h3>Frontend hecho en React y api Rest con Spring</h3>
         <p>Utilizo React para la parte del Frontend y Spring boot para backend. Incluye carga de datos, autentificación, verificación de formularios tanto en cliente             como en el servidor</p>
-        <p>Sigo con el trabajando y mejorándolo</p>
-        <a href="https://github.com/jsusito/proyecto-restaurant.git" class="btn">Frontend</a>
-        <a href="https://github.com/jsusito/proyecto-restaurant.git" class="btn">Frontend</a>
+        <p>La parte del Frontend, hecha completamente en React - <a href="https://github.com/jsusito/proyecto-restaurant.git" class="btn">Frontend</a> -</p>
+        <p>Backend, Con spring boot, incluye servicios rest, authentificación JWT, validación ... - <a href="https://github.com/jsusito/proyecto-restaurant.git"                 Backend </a> -</p>
       </div>
       
-    </section>
+   
   </main>
   <footer>
     <p>Siempre mejorando el código</p>
