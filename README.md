@@ -55,10 +55,21 @@
 </html>
 
 
-https://jsusito.github.io/proyecto-restaurant/ 
+
+### Proyecto final de java FX 
+https://github.com/jsusito/javaFxProyecto.git Proyecto hecho en jafa Fx
+
+### Proyecto de Spring boot V2.7 
+https://github.com/jsusito/spring-boot.git App y Servicios Api Rest
+
+### Proyecto de Spring boot V3.0.4 
+https://github.com/jsusito/spring-boot-V2.git App y Servicios Api Rest
+
+### Proyecto en React
 
 
-Esta es la parte del backend. Las APIs, seguridad JWT... para el inicio de la aplicación y la carga de datos
+Código del proyecto
 
-https://github.com/jsusito/API-REST-RESTAURANT 
+https://github.com/jsusito/proyecto-restaurant.git  
 
+Mira aquí un ejemplo.
