@@ -12,7 +12,7 @@
     <nav>
       <div class="logo">
         <img src="logo.png" alt="Logo">
-        <h1>Mi Nombre</h1>
+        <h1>Mi repositorio</h1>
       </div>
       
     </nav>
@@ -31,15 +31,24 @@
         <a href="https://github.com/jsusito/javaFxProyecto.git">Ver proyecto</a>
       </div>
       <div class="project">
-        <h3>Proyecto 2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat neque eget massa tincidunt vehicula.</p>
-        <a href="#" class="btn">Ver proyecto</a>
+        <h3>Proyecto con spring-boot V2.7</h3>
+        <p>Son dos partes, la parte MVC y el Servicio Rest/p>
+        <a href="https://github.com/jsusito/spring-boot.git" class="btn">App MVC y Servicios Api Rest</a>
       </div>
       <div class="project">
-        <h3>Proyecto 3</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat neque eget massa tincidunt vehicula.</p>
-        <a href="#" class="btn">Ver proyecto</a>
+        <h3>Proyecto con spring-boot V3.5</h3>
+        <p>Es un proyecto actualizado con la última versión. Incluye App MVC y servicios Rest. JWT, conexion base de datos...</p>
+        <p>Sigo con el trabajando y mejorándolo</p>
+        <a href="https://github.com/jsusito/spring-boot-V2.git" class="btn">Ver proyecto</a>
       </div>
+      <div class="project">
+        <h3>Frontend hecho en React y api Rest con Spring</h3>
+        <p>Utilizo React para la parte del Frontend y Spring boot para backend. Incluye carga de datos, autentificación, verificación de formularios tanto en cliente             como en el servidor</p>
+        <p>Sigo con el trabajando y mejorándolo</p>
+        <a href="https://github.com/jsusito/proyecto-restaurant.git" class="btn">Frontend</a>
+        <a href="https://github.com/jsusito/proyecto-restaurant.git" class="btn">Frontend</a>
+      </div>
+      
     </section>
   </main>
   <footer>
@@ -49,21 +58,3 @@
 </html>
 
 
-
-### Proyecto final de java FX 
-https://github.com/jsusito/javaFxProyecto.git Proyecto hecho en jafa Fx
-
-### Proyecto de Spring boot V2.7 
-https://github.com/jsusito/spring-boot.git App y Servicios Api Rest
-
-### Proyecto de Spring boot V3.0.4 
-https://github.com/jsusito/spring-boot-V2.git App y Servicios Api Rest
-
-### Proyecto en React
-
-
-Código del proyecto
-
-https://github.com/jsusito/proyecto-restaurant.git  
-
-Mira aquí un ejemplo.
