@@ -14,12 +14,7 @@
         <img src="logo.png" alt="Logo">
         <h1>Mi Nombre</h1>
       </div>
-      <ul>
-        <li><a href="#">Inicio</a></li>
-        <li><a href="#">Proyectos</a></li>
-        <li><a href="#">Sobre mí</a></li>
-        <li><a href="#">Contacto</a></li>
-      </ul>
+      
     </nav>
   </header>
   
@@ -31,9 +26,9 @@
     <section class="projects">
       <h2>Proyectos recientes</h2>
        <div class="project">
-        <h3>Proyecto 1</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat neque eget massa tincidunt vehicula.</p>
-        <a href="#" class="btn">Ver proyecto</a>
+        <h3>Proyecto Java</h3>
+        <p>Proyecto Maven utilizando java 17. y JavaFx</p>
+        <a href="https://github.com/jsusito/javaFxProyecto.git">Ver proyecto</a>
       </div>
       <div class="project">
         <h3>Proyecto 2</h3>
