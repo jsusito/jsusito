@@ -8,17 +8,7 @@
   <link rel="icon" type="image/png" href="favicon.png">
 </head>
 <body>
-  <header>
-    <nav>
-      <div class="logo">
-        <img src="logo.png" alt="Logo">
-        <h1>Mi repositorio</h1>
-      </div>
-      
-    </nav>
-  </header>
-  
-  <main>
+ <main>
     <section class="intro">
       <h2>Bienvenido a mi página de proyectos</h2>
       <p>Soy un entusiasta de la tecnología y siempre estoy actualizando mis proyectos para mejorarlos. Aquí puedes encontrar una lista de mis proyectos más recientes.     </p>
