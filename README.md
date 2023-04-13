@@ -26,12 +26,14 @@
         <p>Son dos partes, la parte MVC y el Servicio Rest/p>
         <a href="https://github.com/jsusito/spring-boot.git" class="btn">App MVC y Servicios Api Rest</a>
       </div>
+       <hr>
       <div class="project">
         <h3>Proyecto con spring-boot V3.5</h3>
         <p>Es un proyecto actualizado con la última versión. Incluye App MVC y servicios Rest. JWT, conexion base de datos...</p>
         <p>Sigo con el trabajando y mejorándolo</p>
         <a href="https://github.com/jsusito/spring-boot-V2.git" class="btn">Ver proyecto</a>
       </div>
+       <hr>
       <div class="project">
         <h3>Frontend hecho en React y api Rest con Spring</h3>
         <p>Utilizo React para la parte del Frontend y Spring boot para backend. Incluye carga de datos, autentificación, verificación de formularios tanto en cliente             como en el servidor</p>
