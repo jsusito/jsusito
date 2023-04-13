@@ -44,9 +44,7 @@
       
   
   </main>
-  <footer>
-    <p>Siempre mejorando el código</p>
-  </footer>
+  
 </body>
 </html>
 
