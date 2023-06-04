@@ -39,7 +39,8 @@
         <p>Utilizo React para la parte del Frontend y Spring boot para backend. Incluye carga de datos, autentificación, verificación de formularios tanto en cliente             como en el servidor. Aunque las dos partes no están completas, son totalmente funcionales</p>
         <p>La parte del Frontend, hecha completamente en React - <a href="https://github.com/jsusito/proyecto-restaurant.git" class="btn">Frontend</a> -</p>
         <p>Backend, Con spring boot, incluye servicios rest, authentificación JWT, validación ... - <a href="https://github.com/jsusito/API-REST-RESTAURANT">                 Backend </a> -</p>
-        <p>Mira aquí la página diseñada con React - <a href="https://jsusito.github.io/proyecto-restaurant/"> Página web </a> - aunque aun no está acabada, sigo                   trabajando en ella.</p>
+        <p>Mira aquí la página diseñada con React (npx create-react-app) - <a href="https://jsusito.github.io/proyecto-restaurant/"> Página web </a> - aunque aun no está acabada, sigo                   trabajando en ella.</p>
+        <p>La página diseñada con React (npm create vite@latest) - <a href="https://jsusito.github.io/restaurant-web-multilanguage/"> Página web </a> - Esta es la recomendación actual, ya no se aconseja utilizar npx create-react-app.</p>
       </div>
       
   
