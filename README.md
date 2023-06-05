@@ -10,7 +10,7 @@
 <body>
  <main>
     <section class="intro">
-      <img src="https://github.com/jsusito/jsusito/blob/main/programador.jpg"></img>
+      <img src="https://github.com/jsusito/jsusito/blob/main/imagen-prog.jpg"></img>
       <h2>Bienvenido a mi página de proyectos</h2>
       <p>Soy un entusiasta de la tecnología y siempre estoy actualizando mis proyectos para mejorarlos. Aquí puedes encontrar una lista de mis proyectos más recientes.     </p>
     </section>
