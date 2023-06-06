@@ -11,8 +11,8 @@
  <main>
     <section class="intro">
       <img src="https://github.com/jsusito/jsusito/blob/main/imagen-prog.jpg"></img>
-      <h2>Bienvenido a mi página de proyectos</h2>
-      <p>Soy un entusiasta de la tecnología y siempre estoy actualizando mis proyectos para mejorarlos. Aquí puedes encontrar una lista de mis proyectos más recientes.     </p>
+      <h2>Bienvenido</h2>
+      <p>Aquí puedes encontrar algunos de mis proyectos más recientes.     </p>
     </section>
     <section class="projects">
       <h2>Proyectos recientes</h2>
