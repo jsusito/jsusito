@@ -31,7 +31,6 @@
       <div class="project">
         <h3>Proyecto con spring-boot V3.5</h3>
         <p>Es un proyecto actualizado con la última versión. Incluye App MVC y servicios Rest. JWT, conexion base de datos...</p>
-        <p>Aunque no está acabado es completamente funcional, sigo trabajando y mejorándolo</p>
         <a href="https://github.com/jsusito/spring-boot-V2.git" class="btn">Ver proyecto</a>
       </div>
        <hr>
